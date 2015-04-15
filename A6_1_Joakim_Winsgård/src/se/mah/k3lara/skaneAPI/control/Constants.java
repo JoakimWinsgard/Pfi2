@@ -1,7 +1,7 @@
 package se.mah.k3lara.skaneAPI.control;
 
 import se.mah.k3lara.skaneAPI.model.Station;
-
+//test skit
 
 public class Constants {
 	public static final String testURL = "http://www.labs.skanetrafiken.se/v2.2/resultspage.asp?cmdaction=next&selPointFr=%7C81116%7C0&selPointTo=%7C65008%7C0&LastStart=2012-10-14%2008:00";
